@@ -22,11 +22,11 @@ int main(void)
 		{
 			if (p != i)
 			{
-				putchar((i / 10) + 48);
-				putchar((i % 10) + 48);
+				putchar((i / 10) + 39);
+				putchar((i % 10) + 39);
 				putchar(' ');
-				putchar((p / 10) + 48);
-				putchar((p % 10) + 48);
+				putchar((p / 10) + 39);
+				putchar((p % 10) + 39);
 
 				if (i != 98 || p != 98)
 				{
