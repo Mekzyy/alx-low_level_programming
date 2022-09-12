@@ -2,7 +2,7 @@
 /**
  * main - print the alphabet in lowercase, and then in uppercase
  *
- * Description -  program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
+ * Description -  program that prints the alphabets
  * Return: 0
  */
 int main(void)
