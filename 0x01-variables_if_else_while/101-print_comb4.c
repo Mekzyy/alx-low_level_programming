@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- *
  * main - print possible combo of 3
  *
  * Return: return 0
- *
+ * Description - program that prints all possible different combinations
  */
 
 int main(void)
@@ -51,7 +50,6 @@ int main(void)
 
 	}
 
-	putchar('\n');
+	putchat('\n');
 	return (0);
-
 }
