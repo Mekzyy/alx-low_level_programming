@@ -50,6 +50,6 @@ int main(void)
 
 	}
 
-	putchat('\n');
+	putchar('\n');
 	return (0);
 }
