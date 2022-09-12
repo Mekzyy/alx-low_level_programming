@@ -6,14 +6,14 @@
  * numbers
  *
  * Return: returns zero at the end
- */
+*/
 
 int main(void)
 
 {
 
 	int i, p;
-	
+
 	for (i = 0; i < 100; i++)
 
 	{
@@ -35,7 +35,7 @@ int main(void)
 				putchar((p / 10) + '0');
 
 				putchar((p % 10) + '0');
-					
+
 				if (i != 98)
 
 				{
