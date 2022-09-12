@@ -4,7 +4,7 @@
  *
  * main - print possible combo of 3
  *
- * Return: returns zero at the end
+ * Return: return 0
  *
  */
 
@@ -12,7 +12,7 @@ int main(void)
 
 {
 	int i, p, m;
-	
+
 	for (i = 0; i <= 9; i++)
 
 	{
@@ -52,6 +52,6 @@ int main(void)
 	}
 
 	putchar('\n');
-	return(0);
+	return (0);
 
 }
