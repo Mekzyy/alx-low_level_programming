@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- *   * main - Ommit some alphabet
- *   *
- *   * Return: Always (Success)
- *   */
+ * main - Print all the letters except q and e
+ *
+ * Description -  program that prints the alphabet except q and e
+ * Return: 0
+ */
 int main(void)
 {
 	char c;
