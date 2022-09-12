@@ -4,7 +4,8 @@
 /**
  * main - print random number to variable
  *
- * return: 0
+ * Description: using the main function
+ * Return: 0
  */
 
 
