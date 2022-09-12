@@ -28,7 +28,7 @@ int main(void)
 				putchar((p / 10) + 48);
 				putchar((p % 10) + 48);
 
-				if (i != 98 || p != 39)
+				if (i != 98 || p != 99)
 				{
 					putchar(',');
 					putchar(' ');
