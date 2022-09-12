@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main- print random number to variable
+ * main - print random number to variable
  *
  * return: 0
  */
@@ -11,7 +11,7 @@
 int main(void)
 {
 int n;
-char last[] = "last digit of";
+char last[] = "Last digit of";
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
