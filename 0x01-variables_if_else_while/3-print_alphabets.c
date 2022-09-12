@@ -1,11 +1,9 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 /**
- * main - lowercase and uppercase
+ * main - print the alphabet in lowercase, and then in uppercase
  *
  * Description -  program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
@@ -24,3 +22,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+^C
