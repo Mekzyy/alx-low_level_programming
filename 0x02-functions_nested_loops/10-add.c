@@ -4,7 +4,7 @@
  * add - add two numbers from input
  * @a: first aparamet
  * @b: second parameter
- * 
+ *
  * Description: adds two numbers
  * Return: Always (0).
  */
