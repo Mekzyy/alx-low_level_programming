@@ -4,7 +4,7 @@
  * _islower - prints 1 or 0 dependimg on input
  * @c: first parameter
  *
- * Description: prints all lowercase letters
+ * Description: prints _islower
  * Return: Always(0)
  */
 
