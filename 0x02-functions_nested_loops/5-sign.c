@@ -4,7 +4,7 @@
  * @n: type int integer, can be negative or positive
  * Description: print +, 0, or - depending on number, along with return
  * Return: 1 if +, 0 if 0, and -1 if -
- */
+*/
 
 int print_sign(int n)
 {
