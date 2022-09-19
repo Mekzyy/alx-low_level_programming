@@ -4,10 +4,10 @@
 #include "main.h"
 
 /**
- * * _atoi - converts a string to an interger
- * * @str: pointer to the string to be converted
- * * Return: Converted string
- * */
+ * _atoi - converts a string to an interger
+ * @str: pointer to the string to be converted
+ * Return: Converted string
+ */
 int _atoi(char *str)
 {
 	int sign = 1, base = 0, i = 0;
