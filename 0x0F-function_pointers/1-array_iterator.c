@@ -5,7 +5,7 @@
  * @array: Name of the array in which the function acts on.
  * @size: size of the passed array to function
  * @action: the function that acts on the array elements
- * Author: sammykingx
+ * Author: Meks
  * Return: no return cause we've declared VOID
  */
 void array_iterator(int *array, size_t size, void (*action)(int))
