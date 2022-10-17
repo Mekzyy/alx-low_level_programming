@@ -13,3 +13,8 @@ This repo contains programs written for the C low-level programming course @ALX-
 0x08-recursion
 0x09-static libraries
 0x0A-argc, argv
+0x0B-malloc free
+0x0D-preprocessor
+0x0E-structures typedef
+0x0F-function pointers
+0x10-variadic functions
